@@ -3,7 +3,7 @@
 # -----------------------------------------------------------------------------------
 
 # set the path of where the input files are
-mywd = "C:/Users/Nick Morris/Downloads/Data-Science/Model-Scripts/Supervised/Regression"
+mywd = "C:/ ... /Supervised/Regression"
 
 # create a name for a .txt file to log progress information while parallel processing
 myfile = "log.txt"
