@@ -1,0 +1,7 @@
+Metric,Value,Description
+response.variable.name,SalePrice,The column name in your data set that is your response variable
+response.variable.data.type,Numeric,"Takes on 1 of 3 values: Binary, Multi, Numeric"
+partition,0.6,What portion of the data should be used for training?
+times,5,How many times should we repeat the partitioning
+seed,42,A number that controls how the random partitions are made
+cores,0.66,The proportion of your computers cores to use
